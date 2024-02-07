@@ -1,0 +1,16 @@
+adalah surat yang ditujukan untuk banyak orang, dimana setiap orang yang dikirimi surat tsb, akan menerima dalam keadaan asli, bukan salinan
+
+dalam mail merge, terdiri dari 2 dokumen yaitu:
+1.dokumen master
+2.sumber data yg berisi nama penerima
+
+langkah2 membuat dokumen mail merge
+
+1. select starting doc. untuk menentukan atau membuat template yang digunakan sebagai dokumen master
+2. select doc type, utk menentukan jenis atau tipe surat yg akan dibuat, entah itu email atau letter
+3. insert address block, utk menetukan sumber data pada dok utama
+4. Salutation, kata pembuka
+5. adjust layout, mengatur posisi salutation and blocks
+6. edit doc: untuk menampilkan doc sesuai dgn no record untuk diedit secara individual
+7. personalize doc:untuk mengedit doc master
+8. save print or send
